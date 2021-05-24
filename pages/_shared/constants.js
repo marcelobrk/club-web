@@ -12,7 +12,7 @@ export const constants = {
             // secure: true,
             // path: '/'
             port: 9000,
-            host: 'localhost',
+            host: 'https://marcelo-os.herokuapp.com',
             path: '/'
         }
     }),
