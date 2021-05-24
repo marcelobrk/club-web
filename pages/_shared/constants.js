@@ -12,7 +12,7 @@ export const constants = {
             secure: true,
             // path: '/'
             port: 80,
-            host: 'https://marcelopjs.herokuapp.com/',
+            host: 'marcelopjs.herokuapp.com',
             path: '/'
         }
     }),
