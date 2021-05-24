@@ -11,8 +11,8 @@ export const constants = {
             // host: 'ew-peerjs-server.herokuapp.com',
             secure: true,
             // path: '/'
-            port: 9000,
-            host: 'https://marcelo-os.herokuapp.com',
+            port: 80,
+            host: 'https://marcelopjs.herokuapp.com/',
             path: '/'
         }
     }),
